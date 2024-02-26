@@ -16,3 +16,16 @@
 -  I love to create tools to use in my day to day life
 -  Always looking to learn and collaborate on interesting projects.
 <br><br>
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,bash,html,kali,py,sublime,ubuntu,&perline=14" />
+  </a>
+</p>
