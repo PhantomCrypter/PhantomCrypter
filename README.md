@@ -8,3 +8,11 @@
 
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<br>
+
+-  cybersecurity enthusiast focused on the red team
+-  Linux and Python experience
+-  I love to create tools to use in my day to day life
+-  Always looking to learn and collaborate on interesting projects.
+<br><br>
