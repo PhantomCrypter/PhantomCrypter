@@ -18,12 +18,16 @@
 <br><br>
 
 ## **Technologies That I Know👨🏻‍💻**
-<!--tech stack icons-->
+
+<br>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,bash,html,kali,py,sublime,ubuntu,&perline=14" />
   </a>
 </p>
+
+<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
