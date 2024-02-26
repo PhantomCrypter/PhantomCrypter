@@ -11,7 +11,7 @@
 
 <br>
 
--  cybersecurity enthusiast focused on the red team
+-  Cybersecurity enthusiast focused on the red team
 -  Linux and Python experience
 -  I love to create tools to use in my day to day life
 -  Always looking to learn and collaborate on interesting projects.
